@@ -272,5 +272,4 @@ main (int argc, char *argv[])
 	  }
 //You couldn't make it! You loose!	  
 printf("You loose\n");
->>>>>>> 3c315bf1ea75d927714a6c4eb398f393deac825c
 }
