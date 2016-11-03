@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // http://feliam.wordpress.com/2010/10/07/the-symbolic-maze/ ‎
 // twitter.com/feliam
 /*
@@ -135,7 +134,6 @@ main (int argc, char *argv[])
 	  }
 //You couldn't make it! You loose!	  
 printf("You loose\n");
-=======
 // http://feliam.wordpress.com/2010/10/07/the-symbolic-maze/ ‎
 // twitter.com/feliam
 /*
